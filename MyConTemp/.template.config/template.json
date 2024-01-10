@@ -1,0 +1,15 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "我",
+    "classifications": [
+        "Common",
+        "Console"
+    ],
+    "identity": "我的控制台模版",
+    "name": "我的控制台模版",
+    "shortName": "MyConTemp",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    }
+}
