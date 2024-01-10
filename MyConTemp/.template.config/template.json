@@ -8,6 +8,7 @@
     "identity": "我的控制台模版",
     "name": "我的控制台模版",
     "shortName": "MyConTemp",
+    "sourceName": "MyConTemp",
     "tags": {
         "language": "C#",
         "type": "project"
